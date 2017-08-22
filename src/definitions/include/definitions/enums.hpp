@@ -75,3 +75,8 @@ enum class PID : int {
     KD = 1,
     KI = 2
     };
+
+enum class CHAIRSTATE : int{ 
+  MANUAL = 0,
+    AUTONOMOUS = 1
+    };
