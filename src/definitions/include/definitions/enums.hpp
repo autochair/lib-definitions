@@ -70,7 +70,7 @@ enum class UNITY_VECTOR : int {
     Z = 2
     };
 
-enum class PID : int {
+enum class PID_GAINS : int {
   KP = 0,
     KD = 1,
     KI = 2
